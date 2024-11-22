@@ -95,7 +95,7 @@
 The solutions of the programming assignments uploaded here are solely for reference. I request to avoid copying any part of the codes.
 ##### Note: Programming assignments in this 3-course series of Machine Learning specialization are pretty understandable if the lectures are followed wholly and instructions are read attentively.
 
-### Acknowledgement: 
+### Acknowledgement : 
 [Professor Andrew Ng](https://www.andrewng.org/) deserves a big appeciation to make this course in a structured manner with laudable teaching strategies. Special thanks to DeepLearning.Ai team.
 
 <br/>
